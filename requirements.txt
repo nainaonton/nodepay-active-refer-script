@@ -1,0 +1,7 @@
+requests
+colorama
+faker
+capmonster_python
+python-anticaptcha
+2captcha-python
+anticaptchaofficial
